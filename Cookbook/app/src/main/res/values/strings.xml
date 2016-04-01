@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Cookbook</string>
+    <string name="Lasgna_Fritta">\n\n<b>Directions:</b>\n\nHeat 1/4 cup oil in heavy-bottomed pan. \nCut each lasagna noodle in half. \nCombine ricotta cheese, one egg and parsley. \n\nSpread one tablespoon of ricotta mixture down the center of each noodle. Roll into thirds. \n\nWhisk two eggs and water in a bowl. In a separate bowl, combine bread crumbs and Parmesan cheese. \n\nDredge stuffed noodles in egg and then breadcrumb mixture.Place in oil on stove. \n\nCook 1-2 minutes each side until browned, adding more oil as needed.
+    \nPlace each fried lasagna piece on a bed of Alfredo sauce, if desired, and top with Marinara sauce and additional cheese and herbs if desired.</string>
+    <string name="Cheese_Fonduta">\n<b>Directions:</b>\n\nPreheat your oven to 450F. \n\nIn a large bowl, combine the sour cream with the mozzarella cheese, provolone cheese, parmesan cheese, Italian seasoning, and red pepper flake. \n\nSpray a 1.5 quart casserole dish with non-stick spray. \n\nPour the mixture into the prepared dish. Bake for 15 minutes, until the mixture is melted and bubbly. \n\nIf you’d like the top extra browned, broil for an additional 2-3 minutes, but make sure to keep an eye on it so it doesn’t burn. \n\nGarnish with diced tomatoes and parsley. \n\nBake the bread slices for 5 minutes then serve immediately.</string>
+    <string name="Chicken_65">\n\n<b>Directions:</b>\n\nWash chicken under running water and drain off completely.Marinate it with marination ingredients. Set aside for at least 45 mins to 1 hour. Overnight yields the best soft chicken.
+    \n\nMake the seasoning mixture. Add red chili powder, sugar, garlic paste, salt, yogurt or vinegar with 2 tbsp. water. Set this aside.
+    \n\nSprinkle the dry flour over the marinade. If you chose to use egg, you can use. Mix well. If needed sprinkle little water for a good binding.
+    \n\nHeat oil in a deep pan until hot enough to fry the meat, fry till they are cooked fully and golden. Stir while frying for even frying. Drain them on a kitchen tissue.
+    \nHeat a pan with 1 tbsp. oil, add curry leaves, green chilies and cumin, fry till the leaves turn crisp. You can set aside few for garnish.
+    \n\nAdd the seasoning mixture we prepared above and let it begin to bubble.
+    \n\nAdd the friedchicken and toss and fry on medium heat till the it absorbs all the moisture and the raw smell of garlic disappears. Over frying can make the it hard, so switch off in time.serve with onion wedges.
+    </string>
+    <string name="Gulab_Jamun">\n\n<b>Directions:</b>\n\nIn a large bowl, stir together the milk powder, flour, baking powder, and cardamom. Stir in the almonds, pistachios and golden raisins. \n\nMix in the melted ghee, then pour in the milk, and continue to mix until well blended. Cover and let rest for 20 minutes.
+    \n\nIn a large skillet, stir together the sugar, water, rose water and a pinch of cardamom. Bring to a boil, and simmer for just a minute. Set aside.
+    \n\nFill a large heavy skillet halfway with oil. Heat over medium heat for at least 5 minutes. Knead the dough, and form into about 20 small balls. Reduce the heat of the oil to low, and fry the balls in one or two batches. After about 5 minutes, they will start to float, and expand to twice their original size, but the color will not change much. After the jamun float, increase the heat to medium, and turn them frequently until light golden. Remove from the oil to paper towels using a slotted spoon, and allow to cool. Drain on paper towels and allow to cool slightly.
+    \n\nPlace the balls into the skillet with the syrup. Simmer over medium heat for about 5 minutes, squeezing them gently to soak up the syrup. Serve immediately, or chill.
+    </string>
+    <string name="Dynamite_Shrimp">\n\n<b>Directions:</b>\n\nHeat a large saute pan, cast iron skillet, or electric wok until smoking. Add oil and baby carrots; saute until the color of carrots brightens. Add shrimp and stir fry until about half way cooked (1 minute). Add water chestnuts, snow peas and garlic. Saute briefly.
+    \n\nAdd scallions. Add chili paste, ground white pepper, and ground bean sauce. When you smell the "nuttiness" of the ground bean sauce, reduce heat and add sherry.
+    \n\nPour in the sauce mixture and let boil briefly. Add cornstarch slurry and stir until thickened (approximately 30 seconds).
+    \n\nServe along with steamed rice and garnish with cilantro.</string>
+    <string name="Kadhai_Paneer">\n\n<b>Directions:</b>\n\nDry roast separately red chilies and coriander seeds, cool and Pulse them in a blender to make a coarse powder.
+    \n\nHeat oil in a kadai or pan, fry ginger garlic paste until the raw smell has gone.
+    \n\nFry tomatoes with salt and turmeric until mushy and soft. Add ground powder and garam masala.
+    \n\nSaute until the raw smell vanishes from the tomatoes.
+    \n\nAdd capsicum and saute for a minute. Cover and cook for 2 minutes.
+    \n\nAdd paneer along with kasuri methi.
+    \n\nStir and cook just for 2 minutes.
+    \n\nAdd chopped coriander leaves.
+    </string>
+    <string name="Dan_Dan_Noodles">\n\n<b>Directions:</b>\n\nPlace the peanut butter, garlic, ginger, soy sauce, brown sugar, sesame oil, black vinegar, and chili oil into the bowl of a mini-food processor. Process until the mixture is well combined and forms a paste, 1 to 2 minutes. With the processor running, gradually add the chicken broth and process until the sauce is creamy and well combined, 1 to 2 minutes. \n\nTransfer to a large mixing bowl, cover, and set aside while you prepare the rest of the dish.
+        \n\nPlace 4 quarts water into a large pot and bring to a boil over high heat. Add the noodles and cook until al dente, 1 to 1 1/2 minutes. \n\nDrain thoroughly in a colander. Add the noodles to the bowl with the sauce and toss to combine. \n\nServe topped with the peanuts and scallions.
+    </string>
+    <string-array name="recipe_list">
+        <item name="recipe1">Lasgna Fritta</item>
+        <item name="recipe2">Cheese Founduta</item>
+        <item name="recipe3">Chicken 65</item>
+        <item name="recipe4">Gulab Jamun</item>
+        <item name="recipe5">Dynamite Shrimp</item>
+        <item name="recipe6">Kadhai Paneer</item>
+        <item name="recipe7">Dan Dan Noodles</item>
+    </string-array>
+</resources>
